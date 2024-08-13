@@ -20,7 +20,7 @@ Add the desired color palette to cosmic-term using the menu `View -> Color schem
 
 [@enkia](https://www.github.com/enkia) for creating the original vscode color theme
 
-[@pop-os] for creating COSMIC Desktop and COSMIC Terminal
+[@pop-os](https://www.github.com/pop-os) for creating COSMIC Desktop and COSMIC Terminal
 
 ## Contributions
 
